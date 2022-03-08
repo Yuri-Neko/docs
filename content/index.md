@@ -41,6 +41,7 @@ children:
   - desktop
   - early-access
   - support
+  - Om Pedo
 childGroups:
   - name: Get started
     octicon: RocketIcon
